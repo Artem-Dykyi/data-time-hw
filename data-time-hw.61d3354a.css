@@ -1,0 +1,33 @@
+#timer-1 {
+  background-color: #deb887;
+  border-radius: 30px;
+  justify-content: center;
+  gap: 30px;
+  width: 700px;
+  margin-top: 200px;
+  margin-left: 600px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+}
+
+.field {
+  text-align: center;
+  background-color: #d2691e;
+  border-radius: 30px;
+  flex-direction: column;
+  width: 75px;
+  padding: 10px;
+  display: flex;
+}
+
+.value {
+  font-family: Lucida Sans, Lucida Sans Regular, Lucida Grande, Lucida Sans Unicode, Geneva, Verdana, sans-serif;
+  font-size: 30px;
+}
+
+.label {
+  font-family: Lucida Sans, Lucida Sans Regular, Lucida Grande, Lucida Sans Unicode, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+}
+/*# sourceMappingURL=data-time-hw.61d3354a.css.map */
